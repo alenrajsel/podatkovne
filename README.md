@@ -7,6 +7,4 @@ Pomembno:
 git add READ.md - doda datoteko
 README.md v git
 git commit -m "Dodamo besedilo v README"
-nejc je pedr
-hjajsdha
-panđo je gej
+
